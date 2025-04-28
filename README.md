@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cassi
 
-## Getting Started
+Cassi is a lightweight desktop app built to save you time by skipping useless searching steps
+just drag and select any area on your screen to instantly get a smarter, AI-powered explanation. 
 
-First, run the development server:
+**No copying. No pasting. No switching windows.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- Drag and select text
+- OCR reads the selected text 📜
+- Sends it to an AI API 🤖
+- Instant popup response ⚡
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- ElectronJS (or Tauri)
+- Tesseract OCR
+- AI API integration
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Status
+Planning phase.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Goals
+- Quick screen-to-AI interaction
+- Easy API setup
+- Cross-platform support
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Authors
+- Hadi Akbar
+- Christian Dennis

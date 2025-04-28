@@ -1,6 +1,9 @@
 # Cassi
 
-Cassi is a lightweight desktop app that lets you select any text on your screen and instantly get an AI-generated explanation — no copy-pasting needed.
+Cassi is a lightweight desktop app built to save you time by skipping useless searching steps
+just drag and select any area on your screen to instantly get a smarter, AI-powered explanation. 
+
+**No copying. No pasting. No switching windows.**
 
 ## Features
 - Drag and select text
